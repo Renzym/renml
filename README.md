@@ -87,7 +87,7 @@ Register 2 bit fields description
 | **Bit Field** | **Description** |
 | --- | --- |
 | Result Cols | No. of cols of result - 1 |
-| Shift | Accumulator's can be shifted to support Q-formats |
+| Shift | Accumulator's result can be shifted to support different Q-formats |
 | Kern Address Mode | In mode zero next kernel starts at 4, in mode 1 at 8 |
 | Mask | Convolution rows can be masked to support non 3xN convs  |
 
