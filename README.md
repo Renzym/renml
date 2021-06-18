@@ -49,7 +49,7 @@ The address map for the module is given in the following table.
 **Bit-field descriptions for Control/Status Register 0**
 
 | 31 --- 8 | 3 | 2 | 1 | 0 |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Reserved | Soft Reset | Start | Overflow | Done |
 
 Register 0 bit fields description
